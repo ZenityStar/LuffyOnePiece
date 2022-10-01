@@ -19,19 +19,19 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['6281545463585']
-global.premium = ['6281545463585']
-global.ownernomer = '6281545463585'
-global.ownername = 'DidinSec 𖤍'
-global.botname = 'DidinBotz‡'
-global.footer = '©DidinDev.'
-global.ig = 'https://instagram.com/Didin_yt1'
-global.region = 'Indonesia, Kalimantan, barat'
-global.sc = 'https://github.com/DidinSec'
-global.myweb = 'https://didinsec.cf'
-global.packname = 'DidinBotz'
-global.author = 'DidinSec 𖤍'
-global.sessionName = 'session'
+global.owner = ['6285607831410']
+global.premium = ['6285607831410']
+global.ownernomer = '6285607831410'
+global.ownername = 'Rull 𖤍'
+global.botname = 'LuffyBot‡'
+global.footer = '©Luffy Bot By Rull.'
+global.ig = 'https://instagram.com'
+global.region = 'Anime, Isekai, barat'
+global.sc = 'https://github.com'
+global.myweb = 'https://nekopoi.care'
+global.packname = ''
+global.author = 'LuffyBot 𖤍'
+global.sessionName = 'luffy'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
@@ -48,8 +48,8 @@ global.mess = {
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
-    monayawal: 1000
+    free: 15,
+    monayawal: 0
 }
    global.rpg = {
    darahawal: 100,
